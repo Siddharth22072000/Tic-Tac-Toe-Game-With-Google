@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe",
+  "description": "Modern, sleek Tic Tac Toe featuring intelligent AI difficulty modes, pass-and-play multiplayer, multiple grid sizes, score analytics, and customizable themes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

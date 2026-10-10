@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Grid lines -->
+    <path
+        android:pathData="M44,27 L44,81"
+        android:strokeWidth="3.5"
+        android:strokeColor="#64748B"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M64,27 L64,81"
+        android:strokeWidth="3.5"
+        android:strokeColor="#64748B"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M27,44 L81,44"
+        android:strokeWidth="3.5"
+        android:strokeColor="#64748B"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M27,64 L81,64"
+        android:strokeWidth="3.5"
+        android:strokeColor="#64748B"
+        android:strokeLineCap="round" />
+
+    <!-- Top Left 'X' in Cyan -->
+    <path
+        android:pathData="M30,30 L40,40"
+        android:strokeWidth="4"
+        android:strokeColor="#06B6D4"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M40,30 L30,40"
+        android:strokeWidth="4"
+        android:strokeColor="#06B6D4"
+        android:strokeLineCap="round" />
+
+    <!-- Center 'O' in Rose -->
+    <path
+        android:pathData="M54,49 A5,5 0 1,1 53.99,49 Z"
+        android:strokeWidth="4"
+        android:strokeColor="#F43F5E"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Bottom Right 'X' in Cyan -->
+    <path
+        android:pathData="M68,68 L78,78"
+        android:strokeWidth="4"
+        android:strokeColor="#06B6D4"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M78,68 L68,78"
+        android:strokeWidth="4"
+        android:strokeColor="#06B6D4"
+        android:strokeLineCap="round" />
+
+    <!-- Top Right 'O' in Rose -->
+    <path
+        android:pathData="M73,31 A4.5,4.5 0 1,1 72.99,31 Z"
+        android:strokeWidth="3.5"
+        android:strokeColor="#F43F5E"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Bottom Left 'O' in Amber -->
+    <path
+        android:pathData="M35,69 A4.5,4.5 0 1,1 34.99,69 Z"
+        android:strokeWidth="3.5"
+        android:strokeColor="#F59E0B"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+</vector>
